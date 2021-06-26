@@ -20,3 +20,5 @@ Not works
 not tested
 - Thunderbolt
 
+Preview
+<img src="https://github.com/reactor900/X1C8-Opencore-EFI/blob/main/Screenshot.png" width="800" height="450" />
