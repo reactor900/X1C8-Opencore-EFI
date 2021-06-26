@@ -4,13 +4,14 @@ Lenovo Carbon X1 8th Gen i7-10510u Opencore EFI
 X1 Carbon 8th Gen i7-10510u
 
 Works
-- Brightness, Volume hotkey
+- Brightness, Volume hotkeys
 - Battery
 - Wifi(itlwm)
+- Bluetooth
 - Touchpad
 - Touchpoint
 - Camera
-- Sound
+- internal speaker
 
 Not works
 - internal mic
