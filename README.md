@@ -10,7 +10,7 @@ Works
 - Bluetooth
 - Touchpad
 - Touchpoint
-- Camera
+- Webcam
 - internal speaker
 
 Not works
