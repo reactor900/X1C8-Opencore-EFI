@@ -9,7 +9,7 @@ Works
 - Wifi(itlwm)
 - Bluetooth
 - Touchpad
-- Touchpoint
+- Trackpoint
 - Webcam
 - internal speaker
 
