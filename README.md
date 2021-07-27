@@ -15,7 +15,7 @@ Works
 
 Not works
 - internal mic
-- hdmi out
+- hdmi out (flickering & noise)
 
 not tested
 - Thunderbolt
